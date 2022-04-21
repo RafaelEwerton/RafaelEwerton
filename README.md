@@ -1,10 +1,10 @@
-##  Olá, eu sou o Rafael Ewerton! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+#  Olá, eu sou o Rafael Ewerton! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🔭 Atualmente trabalhando como Scrum master
 - 🌱 Estou estudando e aprofundando ainda mais na area de QA | Python
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -16,7 +16,7 @@
  ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 
- ### 👨🏽‍🦲 &nbsp;Social Links
+ ## 👨🏽‍🦲 &nbsp;Social Links
  
 
 <a href="https://linkedin.com/in/rafaelewerton" target="_blank">
